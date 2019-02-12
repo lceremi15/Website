@@ -1,0 +1,16 @@
+body {
+	background-color: red;
+	margin: 0;
+}
+#container {
+	background-color: #91a0ba;
+	width: 1000px;
+	margin: 0 auto;
+}
+main{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.home-pic {
+	width: 400px;
+}
